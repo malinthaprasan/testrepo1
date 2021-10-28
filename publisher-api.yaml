@@ -7884,11 +7884,11 @@ components:
           description: |
             Number of Comments returned.
           example: 1
-        list:
-          type: array
-          readOnly: true
-          items:
-            $ref: '#/components/schemas/Comment'
+#        list:
+#          type: array
+#          readOnly: true
+#          items:
+#            $ref: '#/components/schemas/Comment'
         pagination:
           $ref: '#/components/schemas/Pagination'
     CommenterInfo:
