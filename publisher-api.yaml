@@ -105,7 +105,7 @@ info:
     url: http://www.apache.org/licenses/LICENSE-2.0.html
   version: v2
 servers:
-  - url: http://35.198.229.238
+  - url: https://apiever.com/
     description: Production
 security:
   - OAuth2Security:
